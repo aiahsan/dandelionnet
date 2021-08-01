@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg style="width: 100%;  background: linear-gradient(130.78deg, #7851a9 14.57%, #573187 80.88%);
+  height: 100%;
+" width="1600" height="935" viewBox="0 0 1600 935" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1600" height="935">
+<path d="M0 0.40918H1600V909.02C1600 909.02 1322 712.245 1039.01 867.324C756.011 1022.4 722.823 692.508 444.155 867.324C165.487 1042.14 0 822.753 0 822.753V0.40918Z" fill="url(#paint0_linear)"/>
+</mask>
+<g mask="url(#mask0)">
+<rect x="1481.49" y="639.652" width="12.2718" height="131.485" rx="6.13592" fill="white" fill-opacity="0.1"/>
+<rect x="1509.92" y="686.699" width="12.2718" height="105.812" rx="6.13592" fill="white" fill-opacity="0.1"/>
+<rect x="1481.49" y="783.221" width="12.2718" height="105.812" rx="6.13592" fill="white" fill-opacity="0.1"/>
+<rect x="1538.34" y="639.652" width="12.2718" height="89.1496" rx="6.13592" fill="white" fill-opacity="0.1"/>
+<rect x="1538.34" y="738.647" width="12.2718" height="89.1496" rx="6.13592" fill="white" fill-opacity="0.1"/>
+<rect x="1538.34" y="838.641" width="12.2718" height="89.1496" rx="6.13592" fill="white" fill-opacity="0.1"/>
+<rect x="1509.92" y="583.783" width="12.2718" height="89.1496" rx="6.13592" fill="white" fill-opacity="0.1"/>
+<rect x="1509.92" y="806.277" width="12.2718" height="89.1496" rx="6.13592" fill="white" fill-opacity="0.1"/>
+<circle cx="1548.99" cy="70.0652" r="189.931" stroke="url(#paint1_linear)" stroke-width="120"/>
+<circle cx="27.069" cy="441.113" r="189.931" stroke="url(#paint2_linear)" stroke-width="120"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="470.631" y1="-24.3101" x2="1091.95" y2="893.108" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7851A9"/>
+<stop offset="1" stop-color="#573187"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="1418.32" y1="-179.866" x2="1643.3" y2="239.886" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.08"/>
+<stop offset="0.9375" stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="-103.602" y1="191.182" x2="121.384" y2="610.933" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.08"/>
+<stop offset="0.9375" stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
